@@ -5,7 +5,7 @@
 const typingElement = document.querySelector(".typing");
 
 const roles = [
-  "Software Developer",
+  "Manual Tester",
   "Web Developer",
   "Python Programmer",
   "Tech Enthusiast"
